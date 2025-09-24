@@ -23,9 +23,10 @@ app.put('/meals/:id/:user_id', UpdateMeal)
 // Deleta uma refeição
 app.delete('/meals/:id/:user_id', DeleteMeal)
 
-app.get('/user/:user_id/metrics', Metrics )
+// Lista métricas
+app.get('/user/:user_id/metrics', Metrics)
 
 // Ouvido do servidor
-app.listen({ port:3333 }).then(()=>{
+app.listen({ port: 3333 }).then(() => {
   console.log("HTTP servidor prestando")
 })
