@@ -55,25 +55,6 @@ npm run dev
 
 O servidor estará rodando em `http://localhost:3333`
 
-## 🗄️ Estrutura do Banco de Dados
-
-### Tabela Users
-- id (Primary Key)
-- name
-- email
-
-### Tabela Meals
-- id (Primary Key)
-- name
-- description
-- is_diet (boolean)
-- date
-- user_id (Foreign Key -> Users)
-
-## 📝 Licença
-
-Este projeto está sob a licença ISC.
-
 ---
 
 Desenvolvido como projeto acadêmico 🎓
