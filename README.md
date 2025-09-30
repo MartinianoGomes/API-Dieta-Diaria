@@ -4,10 +4,10 @@ Uma API RESTful desenvolvida como projeto acadêmico para gerenciar dietas diár
 
 ## 🚀 Tecnologias Utilizadas
 
-- [Fastify](https://www.fastify.io/) - Framework web rápido e de baixo overhead
-- [Knex.js](https://knexjs.org/) - Query builder SQL
-- [TypeScript](https://www.typescriptlang.org/) - Superset JavaScript com tipagem estática
-- [SQLite](https://www.sqlite.org/) - Banco de dados relacional
+- [Fastify](https://www.fastify.io/)
+- [Knex.js](https://knexjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [SQLite](https://www.sqlite.org/)
 
 ## 📋 Funcionalidades
 
@@ -57,4 +57,4 @@ O servidor estará rodando em `http://localhost:3333`
 
 ---
 
-Desenvolvido como projeto acadêmico 🎓
+Desenvolvido como projeto acadêmico de Sistemas de Informação🎓
